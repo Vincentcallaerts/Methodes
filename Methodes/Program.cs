@@ -30,7 +30,7 @@ namespace Methodes
 
                 //Afsluiten ja of nee
                 running = StopRunning();
-
+                
             }           
         }
 
